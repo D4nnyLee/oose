@@ -1,0 +1,3 @@
+Section 2. Design pattern
+(Optional) Section 3. Framework which implements this design pattern
+Section 5. Conclusion
