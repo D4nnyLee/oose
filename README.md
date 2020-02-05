@@ -8,7 +8,7 @@ Booking system.
 
 Difference between procedure programming and object-oriented programming.
 
-## HW3 (unfinished)
+## HW3
 
 Print out the source code of Framework and translate comments to Chinese.
 
@@ -20,7 +20,7 @@ Activity diagram of ATM.
 
 Implement 5 types of association.
 
-## HW6 (unfinished)
+## HW6
 
 Integrate two diagrams to build book borrowing system.
 
